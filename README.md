@@ -6,7 +6,7 @@ Welcome to our open-source project built during the **Jesus Tech Hackathon**. Th
 
 ## 📌 Problem Statement
 
-**Title**: [Insert problem name – e.g., LMS for Youth Leader Training]  
+**Title**: LMS for Youth Leader Training  
 **Problem Summary**:  
 > Briefly describe the problem you're solving and why it's important (2–3 sentences).
 
